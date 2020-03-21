@@ -1,0 +1,7 @@
+active:
+  - id: elytra
+    name: Elytra Flight
+    features:
+      - The only Elytra module that can fly upwards without any issues
+      - Can be configured to prevent rubberbanding
+      - Designed to be extremely easy to use

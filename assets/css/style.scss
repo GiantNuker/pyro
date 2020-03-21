@@ -5,5 +5,9 @@
 
 .page-header {
     color:#ffff;
-    background-image: linear-gradient(10deg, rgb(218, 62, 0), rgb(255, 120, 57));
+    background-image: linear-gradient(20deg, rgb(218, 62, 0), rgb(255, 120, 57));
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: rgb(255, 105, 36);
 }
